@@ -1,0 +1,14 @@
+#container{
+    background-color: black;
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    color:white;
+    text-align: center;
+}
+
+.contentText{
+    color: blue;
+}
+
+

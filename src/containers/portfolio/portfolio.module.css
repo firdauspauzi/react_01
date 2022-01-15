@@ -1,0 +1,17 @@
+#container{
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    /* background-color: black; */
+    /* color: white; */
+    text-align: center;
+}
+
+img{
+    width: 800px;
+    height: auto;
+}
+
+img:hover{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}

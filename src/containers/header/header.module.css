@@ -1,0 +1,26 @@
+#container{
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#container img{
+    width: 100px;
+    height: auto;
+}
+
+#container ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+li{
+    margin: 0 10px;
+}
